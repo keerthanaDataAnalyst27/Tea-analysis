@@ -90,7 +90,8 @@ The application will open in your default browser.
 Dashboard Metrics
 
 The dashboard provides the following key performance indicators:
-screanshoet :![Uploading image.png…]()
+screanshoet : <img width="1366" height="768" alt="Screenshot 2026-06-06 195155" src="https://github.com/user-attachments/assets/32aa1e4a-2f0f-4b00-b9b1-272a1a2d6311" />
+
 
 
 - Total Revenue
